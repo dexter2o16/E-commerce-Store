@@ -1,5 +1,4 @@
 # E-commerce Store
-
 Full-featured online store.
 ## Features
 - Product catalog
@@ -7,12 +6,10 @@ Full-featured online store.
 - Payment gateway
 - Order management
 - Inventory
-
 ## Tech Stack
 - Node.js
 - Express
 - MongoDB
 - Stripe
-
 ## License
 MIT
